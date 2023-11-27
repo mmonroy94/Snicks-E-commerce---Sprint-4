@@ -1,0 +1,498 @@
+[
+        {
+            "name": "Nike Air Max 95",
+            "type": "Estilo deportivo",
+            "brand": "Nike",
+            "gender": "Hombre",
+            "price": "132.97",
+            "quantity": "10",
+            "description": "Dales tu toque personal. Luego, impúlsate con las Air Max 95 x Future Movement. Con un diseño que rinde homenaje a la comunidad negra del Reino Unido, el diseño se inspira en un colectivo de artistas que luchan por combatir los sistemas de represión y poner de relieve la importancia de la comunidad y la alegría. Con infinidad de detalles y la inscripción 1987 en la lengüeta para rendir homenaje al año en el que se celebró por primera vez el Mes de la Historia Afroamericana en Inglaterra. Hay que superar los límites. Átalas. Dalo todo. Deja tu huella.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e6bd1c92-85f2-4963-b3d7-cd17ce808431/air-max-95-future-movement-zapatillas-hkdRF3.png"
+        },
+        {
+
+            "name": "Nike Dunk Low Retro",
+            "type": "Estilo casual",
+            "brand": "Nike",
+            "gender": "Hombre",
+            "price": "119.99",
+            "quantity": "10",
+            "description": "Las Nike Dunk Low Retro, que se crearon para el parqué y terminaron dominando las calles, vuelven con revestimientos impecables y los colores del equipo originales. Este icono de baloncesto rinde homenaje al estilo de los 80 con una parte superior de piel premium que ofrece un look excelente. La tecnología del calzado moderna aporta la comodidad del siglo XXI.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9bc016bc-cd7a-49cc-a399-47930b00c59f/dunk-low-retro-zapatillas-dd36JB.png"
+        },
+        {
+
+            "name": "Nike Air Force 1 '07",
+            "type": "Estilo casual",
+            "brand": "Nike",
+            "gender": "Hombre",
+            "price": "83.97",
+            "quantity": "10",
+            "description": "El fulgor sigue vivo con un diseño de baloncesto original. Con un diseño que combina la comodidad para la cancha con un estilo urbano, estas zapatillas dan un nuevo giro a su ya característico estilo, su confección inspirada en los 80, sus detalles llamativos y su estilo impecable.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0f5256a3-de76-4696-89c2-e97a412c7957/air-force-1-07-zapatillas-1WvHFS.png"
+        },
+        {
+
+            "name": "Nike Air Force 1 Low Retro",
+            "type": "Estilo casual",
+            "brand": "Nike",
+            "gender": "Hombre",
+            "price": "104.97",
+            "quantity": "10",
+            "description": "El icono en la cancha original, convertido en el rey de la ropa de calle, celebra 40 años llamando la atención. Con todo lo que conoces, los revestimientos cosidos, la piel impecable y la cantidad perfecta de estilo de baloncesto, las Nike Air Force 1 Low ofrecen un diseño réplica de las originales.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1260367b-d046-4dae-91dc-fe0294130ab9/air-force-1-low-retro-zapatillas-kVvb79.png"
+        },
+        {
+
+            "name": "Nike Air Max Plus Utility",
+            "type": "Estilo deportivo",
+            "brand": "Nike",
+            "gender": "Hombre",
+            "price": "139.97",
+            "quantity": "10",
+            "description": "Inspiradas en la playa y diseñadas para la ciudad, las Nike Air Max Plus Utility se renuevan con un diseño robusto perfecto para tus aventuras urbanas. Hemos añadido una bandeleta de ante resistente a su parte superior de tejido Knit transpirable y hemos ajustado el look con un conjunto adicional de cordones con cierre regulable para ofrecer un ajuste seguro y firme. Además, las unidades Max Air visibles en el antepié y el talón proporcionan una experiencia Tuned Air que combina comodidad con un estilo desafiante.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e83f26a0-7393-428a-aa9c-07d440cf6ade/air-max-plus-utility-zapatillas-kZZ2vm.png"
+        },
+        {
+
+            "name": "Nike Go FlyEase",
+            "type": "Fáciles de poner y quitar",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "129.99",
+            "quantity": "10",
+            "description": "Olvídate de los cordones y sal a la calle. Estas zapatillas cuentan con la revolucionaria tecnología FlyEase de Nike para que puedas ponértelas y quitártelas fácilmente. Con un talón que se abre para que puedas calzarte y descalzarte sin manos, son perfectas para personas con movilidad reducida o que quieran ponerse rápidamente en marcha.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0e71e52d-be87-4397-aeb7-1d528a8f6513/go-flyease-zapatillas-faciles-de-poner-y-quitar-n8CfzV.png"
+        },
+        {
+
+            "name": "SB Dunk Low Pro",
+            "type": "Skateboard",
+            "brand": "Nike",
+            "gender": "Hombre",
+            "price": "119.99",
+            "quantity": "10",
+            "description": "Antes de que sus suelas empezaran a tocar tablas de skateboard, las Dunk dejaron huella en la cancha como Baloncesto. Con el paso del tiempo, la comunidad de skaters las adoptó por su durabilidad y su contacto reactivo con la tabla. En 2002, se renovó el diseño para adaptarlo a este nuevo público y se incluyó una unidad Zoom Air en el talón y una lengüeta acolchada para ofrecer la máxima comodidad.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8f940dd5-e1c7-4494-94f7-23836c2b1868/sb-dunk-low-pro-zapatillas-de-skateboard.png"
+        },
+        {
+            "name": "White and Gum Light Brown",
+            "type": "Skateboard",
+            "brand": "Nike",
+            "gender": "Hombre",
+            "price": "119.99",
+            "quantity": "10",
+            "description": "Las clásicas Skateboard que son perfectas sobre la tabla y fuera de ella. Esta versión premium de las Dunk Low está confeccionada con piel impecable y una suela exterior de goma para darlo todo cada vez que haces un truco. Además, la lengüeta de tela ventilada y la amortiguación Zoom Air en la planta del pie mantienen la ligereza en los pies, incluso en las sesiones de skate más largas. Y gracias al logotipo Swoosh, estas zapatillas crean un estilo con más contraste que una americana, con un aire más atrevido.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/85673388-0487-4c79-8ea2-a3c55d7eb882/sb-dunk-low-pro-zapatillas-de-skateboard.png"
+        },
+        {
+            "name": "Nike Air Max 90 G",
+            "type": "Golf",
+            "brand": "Nike",
+            "gender": "Hombre",
+            "price": "104.97",
+            "quantity": "10",
+            "description": "Las Nike Air Max 90 originales eran famosas por sus líneas impecables y su estilo atemporal. Las Nike Air Max 90 G se mantienen fieles al icono original e incluyen varias actualizaciones pensadas para el golf, como la tracción integrada y un fino revestimiento que mantiene el agua a raya.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c3f640e5-7911-493e-9403-c4de7b99a656/air-max-90-g-zapatillas-de-golf-l6V5wP.png"        
+        },
+        {
+            "name": "Nike Impact 4",
+            "type": "Baloncesto",
+            "brand": "Nike",
+            "gender": "Hombre",
+            "price": "69.97",
+            "quantity": "10",
+            "description": "Perfecciona tu estilo de juego y tus saltos. Estas zapatillas ligeras y seguras cuentan con amortiguación Max Air en el talón para moverte con seguridad y comodidad. Además, la goma envuelve los laterales para ofrecer mayor durabilidad y estabilidad.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/831a7456-5e95-46fa-9dfd-b746928024ad/impact-4-zapatillas-de-baloncesto-X69N2S.png"
+        },
+        {
+            "name": "Jordan One Take 4",
+            "type": "Baloncesto",
+            "brand": "Nike",
+            "gender": "Hombre",
+            "price": "69.97",
+            "quantity": "10",
+            "description": "Consigue la velocidad que necesitas, como Russ. Inspirada en las últimas zapatillas exclusivas de Russell Westbrook, la suela exterior de las Jordan One Take 4 casi llega a envolver la mediasuela para que puedas arrancar, parar o cambiar de dirección en un instante. Además, la amortiguación Zoom Air con retorno de energía en el antepié te mantiene en movimiento.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/80fc3cbf-e3fc-42ea-9c41-5c4665029b74/jordan-one-take-4-zapatillas-de-baloncesto-WND0JL.png"
+        },
+        {
+            "name": "Nike Air Monarch IV",
+            "type": "Training",
+            "brand": "Nike",
+            "gender": "Hombre",
+            "price": "74.99",
+            "quantity": "10",
+            "description": "Las Nike Air Monarch IV te preparan para entrenar con una confección de piel duradera en la parte superior para una mayor sujeción. La espuma ligera se combina con la amortiguación Nike Air para ofrecer comodidad en cada pisada.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/uirypqqxq83mwcjbf9ej/air-monarch-iv-zapatillas-de-training-t6VLxN.png"
+        },
+        {
+            "name": "Nike Downshifter 12",
+            "type": "Running para asfalto",
+            "brand": "Nike",
+            "gender": "Hombre",
+            "price": "55.97",
+            "quantity": "10",
+            "description": "Da tus primeros pasos en el mundo del running con las Nike Downshifter 12. Confeccionadas con, al menos, un 20 % de contenido reciclado por peso, te ofrecen un ajuste firme, una pisada estable y sensación de ligereza, tanto para entrenar como para pasar el día. Comienza tu caminata. Póntelas y disfruta sobre el asfalto.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c51d6de3-3fcf-493d-b794-648e5cc0b6b4/downshifter-12-zapatillas-de-running-asfalto-zhJr9p.png"
+        },
+        {
+            "name": "Nike Air Force 1 '07",
+            "type": "Estilo casual",
+            "brand": "Nike",
+            "gender": "Mujer",
+            "price": "83.97",
+            "quantity": "10",
+            "description": "El fulgor sigue vivo con las Nike Air Force 1 '07, un icono del baloncesto que aporta un nuevo toque a su ya característica piel impecable, sus colores llamativos y la cantidad perfecta de reflectante.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6514ee68-6743-4fa7-a43d-b501934e90d3/air-force-1-07-zapatillas-KfVcH8.png"
+        },
+        {
+            "name": "Nike Air Force 1 '07",
+            "type": "Estilo casual",
+            "brand": "Nike",
+            "gender": "Mujer",
+            "price": "119.99",
+            "quantity": "10",
+            "description": "Suma puntos en este clásico legendario. Con un diseño que combina la comodidad del parqué con un estilo urbano, este modelo original de baloncesto realza su piel impecable con sutiles revestimientos de ante para ofrecer un estilo inspirado en la cancha. Las unidades Nike Air ocultas y la duradera confección de los 80, que rinde homenaje a una era, añaden la comodidad que más te gusta.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2944077b-ffe6-4578-b5ce-8d5512285fb1/air-force-1-07-zapatillas-3RD8Zk.png"
+        },
+        {
+            "name": "Light Smoke G&P",
+            "type": "Estilo casual",
+            "brand": "Nike",
+            "gender": "Mujer",
+            "price": "119.99",
+            "quantity": "10",
+            "description": "Cuando se lanzan unas Dunk nuevas, es señal de que será un buen día. Estas combinan piel en light smoke grey con tela vaquera en photon dust para conseguir un look armonioso pero nada aburrido. El logotipo innovador añade un toque de midnight navy, mientras que la mediasuela y el Swoosh en blanco aportan dimensión. Harmonía de lo más interesante: así se llevan los tonos neutros.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/90797510-9aec-4f21-aab7-fb87c705c61b/dunk-low-lx-nbhd-zapatillas.png"
+        },
+        {
+            "name": "Nike Air Force 1 Shadow",
+            "type": "Estilo casual",
+            "brand": "Nike",
+            "gender": "Mujer",
+            "price": "129.99",
+            "quantity": "10",
+            "description": "Las Nike Air Force 1 Shadow le dan un toque divertido a un diseño de baloncesto clásico.Este modelo destaca el ADN de las AF-1 con su estilo a capas, el doble de logotipos y la mediasuela extragrande, para un look atrevido e innovador.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6181316d-fe8b-417f-a8d8-a426346e24bc/air-force-1-shadow-zapatillas-0HXP2W.png"
+        },
+        {
+            "name": "Air Jordan 1 Low",
+            "type": "Estilo casual",
+            "brand": "Nike",
+            "gender": "Mujer",
+            "price": "129.99",
+            "quantity": "10",
+            "description": "Disfruta de un look con estilo y siempre a la moda. Las Air Jordan 1 Low te ofrecen una parte de la historia y el legado Jordan con una comodidad que dura todo el día. Elige los colores y sal a la calle con el icónico perfil diseñado con una combinación de materiales de alta calidad y una unidad Air encapsulada en el talón.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d3123e79-53e5-4a03-aa5b-fbc5c18b9bfd/air-jordan-1-low-zapatillas-2mLM4c.png"
+        },
+        {
+            "name": "Nike Tech Hera",
+            "type": "Estilo casual",
+            "brand": "Nike",
+            "gender": "Mujer",
+            "price": "109.99",
+            "quantity": "10",
+            "description": "Inspiradas en las carreras de principios de la década de 2000, las Tech Hera están aquí para cumplir todos tus deseos de zapatillas gruesas. Cuentan con una mediasuela ondulada y elevada y detalles dorados para elevar el look y mantener la comodidad. Su diseño duradero es perfecto para el día a día, y no querrás quitártelas.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/45eb504d-4ca0-4675-80cf-720913d53f3e/tech-hera-zapatillas-N0bMwC.png"
+        },
+        {
+            "name": "Nike E-Series AD",
+            "type": "Estilo deportivo",
+            "brand": "Nike",
+            "gender": "Mujer",
+            "price": "55.97",
+            "quantity": "10",
+            "description": "La comodidad para el día a día se actualiza con un look moderno. Las E-Series AD se han diseñado para que sean fáciles de poner y se conviertan en tu modelo favorito para cada día. La malla transpirable y la amortiguación de espuma ofrecen el equilibrio perfecto entre comodidad y sujeción desde que das el primer paso hasta el final de la jornada.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/694216d8-cc23-45ba-9ef8-b91d5f701a7f/e-series-ad-zapatillas-rzmjrT.png"
+        },
+        {
+            "name": "Nike Air Max Pulse",
+            "type": "Estilo deportivo",
+            "brand": "Nike",
+            "gender": "Mujer",
+            "price": "159.99",
+            "quantity": "10",
+            "description": "Con un diseño auténtico, las Air Max Pulse se inspiran en la escena musical de Londres para aportar un toque underground a la icónica línea Air Max. La mediasuela envuelta en tela y los detalles de sellado al vacío ofrecen un look innovador e impecable, y los colores inspirados en la escena musical de Londres ofrecen un look llamativo. La amortiguación Air cargada, renovada a partir de las Air Max 270 increíblemente suaves, ofrece mayor rebote para ir más allá de tus límites.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/48d07380-244b-4fa4-99d7-133e2ca64d5f/air-max-pulse-zapatillas-f2h8p7.png"
+        },
+        {
+            "name": "Jumpman Two Trey",
+            "type": "Baloncesto",
+            "brand": "Nike",
+            "gender": "Mujer",
+            "price": "74.97",
+            "quantity": "10",
+            "description": "Estas zapatillas se han creado para rendir homenaje a la época de MJ en Chicago. La piel auténtica y la clásica amortiguación Air se combinan para ofrecer un look premium. La mejor forma de animar. A Two Trey, claro.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/727bbefa-98b8-4837-96a3-06820476c8fe/jumpman-two-trey-zapatillas-bTMPs1.png"
+        },
+        {
+            "name": "Nike City Rep TR",
+            "type": "Training",
+            "brand": "Nike",
+            "gender": "Mujer",
+            "price": "48.97",
+            "quantity": "10",
+            "description": "Las Nike City Rep TR son unas zapatillas versátiles que te ofrecen durabilidad y flexibilidad para tu estilo de vida activo. La suela de goma proporciona agarre en una amplia variedad de superficies. Además, la amortiguación de espuma mantiene la comodidad en los entrenamientos al aire libre y en todo lo que te propongas.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e602773e-bf5e-436f-9e2c-c8c015cf4eed/city-rep-tr-zapatillas-de-entrenamiento-ZlsTTf.png"
+        },
+        {
+            "name": "Nike G.T. Hustle 2",
+            "type": "Baloncesto",
+            "brand": "Nike",
+            "gender": "Mujer",
+            "price": "199.99",
+            "quantity": "10",
+            "description": "Un paso puede marcar la diferencia en el momento clave del partido, como convertir una bandeja tras una puerta atrás, y no taponar por apenas milímetros, o un salto en el último segundo por encima del oponente para marcar un triple. Hemos utilizado información de atletas femeninas para hacer que las G.T. Hustle 2 ofrezcan la suavidad, sujeción y ligereza que todo jugador de baloncesto necesita. Con amortiguación en la parte central y elasticidad Zoom Air en el antepié, estas zapatillas te ayudan a seguir avanzando desde el salto inicial hasta el final del partido. Acelera, para y encesta a ambos lados de la cancha y concéntrate en controlar, sin deteriorar, la elasticidad.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ed46f423-f38d-4ea9-b6c6-a70f7675c73f/gt-hustle-2-zapatillas-de-baloncesto-lXkKR7.png"
+        },
+        {
+            "name": "Nike Infinity Pro 2",
+            "type": "Golf",
+            "brand": "Nike",
+            "gender": "Mujer",
+            "price": "90.97",
+            "quantity": "10",
+            "description": "Cuando dijiste que querías unas Golf que no solo parecieran unas zapatillas de running innovadoras, sino que también se comportaran como unas, te escuchamos. Presentamos las Nike Infinity Pro 2. Este modelo combina la comodidad y la versatilidad de la tracción integrada con una elegante parte superior de tela transpirable y fácil de limpiar. Además, cuenta con amortiguación de espuma Nike React para acompañarte del campo a la calle y cualquier otro lugar.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/140e99c2-d59a-4256-8e60-2adecc6a4bef/infinity-pro-2-zapatillas-de-golf-wHvfJD.png"
+        },
+        {
+            "name": "Nike Ultrafly",
+            "type": "Training",
+            "brand": "Nike",
+            "gender": "Mujer",
+            "price": "249.99",
+            "quantity": "10",
+            "description": "Deja salir tu lado más montañoso cuando el camino que tienes por delante es incierto y resbaladizo. Hemos renovado estas zapatillas de competición de trail que combinan nuestros mejores elementos de velocidad del mundo del running con todo lo que necesitas para llegar en primera posición a la línea de meta. Ofrecen el máximo rendimiento, velocidad, elegancia y resistencia para quienes quieren llegar a lo más alto en plena naturaleza.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/25af404d-f77d-470c-aa57-9053fbbd213b/ultrafly-zapatillas-de-trail-running-T2nBSP.png"
+        },
+        {
+            "name": "Nike InfinityRN 4",
+            "type": "Running para asfalto",
+            "brand": "Nike",
+            "gender": "Mujer",
+            "price": "169.99",
+            "quantity": "10",
+            "description": "Con una amortiguación de gran sujeción diseñada para correr con comodidad, las Nike InfinityRN 4 son una nueva versión de un modelo muy popular. Están confeccionadas con nuestra nueva espuma Nike ReactX, que ofrece un 13 % más de retorno de energía en comparación con la espuma Nike React, para mantener la frescura y la elasticidad. (¿Y qué más? La espuma Nike ReactX reduce la huella de carbono de un par de mediasuelas en, al menos, un 43 % en comparación con la espuma Nike React*). Combinamos la espuma ReactX con el tejido Flyknit con el mejor ajuste hasta la fecha de Nike Running para ofrecer seguridad en cada pisada con una sujeción superior suave y transpirabilidad. Es el tipo de zapatillas que ofrecen sujeción en cada pisada con estilo. *La huella de carbono de ReactX se basa en una evaluación de toda la cadena de producción realizada por PRé Sustainability B.V e Intertek China. No se consideraron otros componentes de la mediasuela, como cámaras de aire, placas u otras formulaciones de espuma.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7f5b04c6-71b7-430c-85b9-9586d65dbba4/infinityrn-4-zapatillas-de-running-asfalto-ClS3Fj.png"
+        },
+        {
+            "name": "Nike Metcon 8",
+            "type": "Training",
+            "brand": "Nike",
+            "gender": "Mujer",
+            "price": "139.99",
+            "quantity": "10",
+            "description": "Vas siempre a contrarreloj y animas y retas a los demás a alcanzar sus objetivos y mejorar. Nuestro modelo ideal para el entrenamiento cuenta con una parte superior más ligera y transpirable que la de nuestra edición anterior para satisfacer nuestros estándares de durabilidad y comodidad. Esto te permite hacer ejercicios de cardio, darlo todo en los levantamientos de pesas y dominar tus entrenamientos.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/602c0596-f58a-4435-9b82-ff00a99542f6/metcon-8-zapatillas-de-training-Msjwbs.png"
+        },
+        {
+            "name": "Nike Pegasus Trail 4",
+            "type": "Trail running - mal clima",
+            "brand": "Nike",
+            "gender": "Mujer",
+            "price": "159.99",
+            "quantity": "10",
+            "description": "Las Nike Pegasus Trail 4 GORE-TEX se han diseñado para esos momentos en los que, pase lo que pase, no quieres volver atrás. Mantén la confianza incluso en las condiciones meteorológicas más inesperadas con GORE-TEX impermeable para mantener la transpirabilidad, de forma que puedas mantener la intensidad al correr durante más tiempo y puedas cambiar del asfalto a la tierra manteniendo tu ritmo. La capa impermeable combinada con polaina en la parte superior del tobillo ofrece protección adicional para mantener la transpirabilidad.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e79725ad-02e9-408e-9ccb-3fccd8365acf/pegasus-trail-4-gore-tex-zapatillas-de-trail-running-el-mal-tiempo-49RhsL.png"
+        },
+        {
+            "name": "Nike SB Force 58",
+            "type": "Skateboard",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "74.99",
+            "quantity": "10",
+            "description": "Las nuevas y mejores innovaciones para el estilo urbano, las Force 58 ofrecen la durabilidad de un diseño cupsole con la flexibilidad de unas zapatillas vulcanizadas. Están confeccionadas con lona y ante, se completan con perforaciones en la puntera y tienen un look con el ADN del baloncesto tradicional.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ec9b4815-cf1a-4f1b-8269-9a32552dbf4f/sb-force-58-zapatillas-de-skateboard-3FxQvm.png"
+        },
+        {
+            "name": "Nike Go FlyEase Black",
+            "type": "Fáciles de poner y quitar",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "129.99",
+            "quantity": "10",
+            "description": "Olvídate de los cordones y sal a la calle. Estas zapatillas cuentan con la revolucionaria tecnología FlyEase de Nike para que puedas ponértelas y quitártelas fácilmente. Con un talón que se abre para que puedas calzarte y descalzarte sin manos, son perfectas para personas con movilidad reducida o que quieran ponerse rápidamente en marcha.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/247616b5-1d3b-4777-abbb-d5e08a924b78/go-flyease-zapatillas-faciles-de-poner-y-quitar-WS84pD.png"
+        },
+        {
+            "name": "Nike Air Max 90 GORE-TEX",
+            "type": "Estilo deportivo",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "179.99",
+            "quantity": "10",
+            "description": "Póntelas y siente el legado. Estas AM90 te acompañarán en todas tus aventuras gracias a una combinación de materiales GORE-TEX y de malla. Se las han puesto presidentes, han revolucionado colaboraciones y han rendido homenajes con combinaciones de colores únicas, la suela exterior tipo gofre, llamativos elementos visuales y la amortiguación Nike Air las mantienen con un estilo que supera el paso del tiempo.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d4abdad5-4e03-4e34-a790-cb2bbd06e4c2/air-max-90-gore-tex-zapatillas-1J3bKw.png"
+        },
+        {
+            "name": "Nike Air Max 90 G",
+            "type": "Golf",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "104.97",
+            "quantity": "10",
+            "description": "Las Nike Air Max 90 originales eran famosas por sus líneas impecables y su estilo atemporal. Las Nike Air Max 90 G se mantienen fieles al icono original e incluyen varias actualizaciones pensadas para el golf, como la tracción integrada y un fino revestimiento que mantiene el agua a raya.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f442caeb-d894-4de7-8a83-b736e01ab548/air-max-90-g-zapatillas-de-golf-jgmVk2.png"
+        },
+        {
+            "name": "Giannis Immortality 3-5",
+            "type": "Baloncesto",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "89.99",
+            "quantity": "10",
+            "description": "Correr en familia. Jugar en familia. Celebrar en familia. La familia es lo primero para Giannis, independientemente de lo que consiga en la cancha. Este diseño ondulado rinde homenaje a los cuatro hermanos del Greek Freak. Está inspirado en sus zonas de costa preferidas en las que descansan y se relajan en familia. Creadas cuidadosamente para el baloncesto de hoy en día, de ritmo intenso y sin posiciones fijas, estas zapatillas son más suaves que la versión anterior, con un patrón de tracción perfecto para hacer los mejores eurosteps.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/fc4ac972-4147-459e-8c77-2cdd031601c9/giannis-immortality-3-5-hard-way-zapatillas-de-baloncesto-73F8t7.png"
+        },
+        {
+            "name": "Nike Air Max 1 '86 OG G",
+            "type": "Golf",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "169.99",
+            "quantity": "10",
+            "description": "Una leyenda del estilo urbano conecta las Air Max 1 G. Cuentan con un diseño de cuatro ventanas que permite alcanzar la unidad Air que hay debajo, en un modelo que ofrece frescura, confianza y comodidad en el campo. Incorpora los detalles Air Max 1 vintage que más te gustan: líneas impecables, colores inconfundibles y combinados con nuestra revolucionaria tecnología de golf para que puedas jugar durante todo el día y todo el año con un ajuste atemporal.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ede159c9-1270-4b14-a59b-727e1099855c/air-max-1-86-og-g-zapatillas-de-golf-vzFPp4.png"
+        },
+        {
+            "name": "Nike P-6000",
+            "type": "Estilo deportivo",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "119.99",
+            "quantity": "10",
+            "description": "Con diversos elementos del pasado de las Pegasus, las Nike P-6000 llevan el estilo del running de principios de los 2000 a nuevas alturas. Combinando líneas deportivas con malla y revestimientos transpirables, este modelo es la fusión perfecta de estilo llamativo y comodidad. Además, la amortiguación de espuma añade una plataforma inspirada en el atletismo y una amortiguación increíble.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9cfe0855-f4ce-4798-8d13-eaf809952f4c/p-6000-zapatillas-fWhcCn.png"
+        },
+        {
+            "name": "Nike SB Zoom Blazer Mid",
+            "type": "Skateboard",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "79.67",
+            "quantity": "10",
+            "description": "Las Zoom Blazer Mid son unas icónicas Baloncesto adaptadas a las necesidades de los skaters de hoy. El ante texturizado ofrece un look premium y duradera, al tiempo que la goma adherente añade un agarre flexible y una comodidad duradera.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2a109384-0da3-4189-85e5-7a5e7a6c1660/sb-zoom-blazer-mid-zapatillas-de-skateboard-R3SKfs.png"
+        },
+        {
+            "name": "Nike Mercurial Vapor 15 Elite",
+            "type": "Fútbol para terreno blando",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "269.99",
+            "quantity": "10",
+            "description": "Las Vapor 15 Elite SG-Pro te permiten dominar el terreno de -Pro juego. Hemos añadido una unidad Zoom Air diseñada específicamente para el fútbol y una textura adherente en la parte superior para ofrecer un toque excepcional y dominar los minutos más decisivos del partido, cuando más lo necesitas. Siente la velocidad explosiva mientras corres por el campo para jugar con la máxima vitalidad, velocidad y ritmo. Fast is in the Air. Esta versión cuenta con tracción Anti-Clog en la placa de la suela para evitar que el barro se adhiera.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b4f038da-a79f-409e-863d-fb70005d9296/mercurial-vapor-15-elite-botas-de-futbol-terreno-blando-4T4lj6.png"
+        },
+        {
+            "name": "Nike Mercurial Superfly 9",
+            "type": "Fútbol sala",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "69.99",
+            "quantity": "10",
+            "description": "Inclina al instante el campo con el llamativo diseño de las Superfly 9 Club IC, ligeras y con mayor contacto con el suelo. Fast is in the Air.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/65535147-9e8d-4aeb-a315-d9a5fdd4ce08/mercurial-superfly-9-club-botas-de-futbol-sala-bmBPC2.png"
+        },
+        {
+            "name": "Nike Romaleos 4 SE",
+            "type": "Halterofilia",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "209.99",
+            "quantity": "10",
+            "description": "Las Nike Romaleos 4 SE con muy resistentes y estables, y cuentan con una base plana y ancha que ofrece la sujeción perfecta en las sesiones de levantamiento de pesas más exigentes. Las correas regulables envuelven el pie con firmeza para mantener un ajuste ceñido e ideal tanto en el gimnasio como en el panorama mundial.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/32a5ab47-35a7-41b6-a276-872ae96672e2/romaleos-4-se-zapatillas-de-halterofilia-QRPsN6.png"
+        },
+        {
+            "name": "Nike Premier 3",
+            "type": "Fútbol para grama artificial",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "94.99",
+            "quantity": "10",
+            "description": "Vuelve a lo más básico con las Nike Premier 3. Una silueta atemporal envuelta en piel flexible te ayuda a moverte con seguridad como una fuerza imparable en el campo.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/42a8010b-daa0-424d-8ad4-57ff62c875b5/premier-3-botas-de-futbol-hierba-artificial-o-moqueta-GhSHwQ.png"
+        },
+        {
+            "name": "Nike Lunargato II",
+            "type": "Fútbol sala",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "89.99",
+            "quantity": "10",
+            "description": "Las Nike Lunargato II sin ideales para jugar en espacios reducidos. La suavidad de la piel en el antepié produce una sensación agradable y natural para un toque preciso. La amortiguación de la medisuela ofrece elasticidad y reactividad, y el patrón de goma proporciona la tracción que necesitas para los recortes rápidos en superficies cubiertas.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3d3aca57-8409-4bdc-aeb6-df8d5ba0d994/lunargato-ii-botas-de-futbol-sala-gW0bVV.png"
+        },
+        {
+            "name": "Nike Romaleos 4",
+            "type": "Halterofilia",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "199.99",
+            "quantity": "10",
+            "description": "Diseñadas para ofrecer fuerza y estabilidad, las Nike Romaleos 4 incorporan una mediasuela de sujeción y una suela exterior ancha y plana. Las correas regulables en el mediopié sujetan el pie en los entrenamientos más intensos.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-cbecf79a-37cc-421f-af02-5bd50fb7db46/romaleos-4-zapatillas-de-halterofilia-xjpw8P.png"
+        },
+        {
+            "name": "Nike Phantom GX Elite",
+            "type": "Fútbol terreno firme",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "259.99",
+            "quantity": "10",
+            "description": "¿Te obsesiona perfeccionar tu destreza? Hemos diseñado las botas Elite para ti y para las mayores estrellas del mundo con el fin de ofrecerte la máxima calidad, porque sabemos que te exiges grandeza a ti y a tus botas. Estas botas están confeccionadas con un revolucionario material Nike Gripknit y proporcionan un mejor toque con un diseño intuitivo que mejora la precisión al golpear y controlar el balón.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/fc072365-7438-43b9-8126-f809834979d8/phantom-gx-elite-botas-de-futbol-terreno-firme-C0D3tn.png"
+        },
+        {
+            "name": "Nike Phantom GT2 Academy",
+            "type": "Fútbol multisuperficie",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "84.99",
+            "quantity": "10",
+            "description": "Las Nike Phantom GT2 Academy FlyEase MG cuentan con un diseño basado en datos y creado con datos para facilitar un ataque hábil. La parte superior texturizada ofrece más agarre para mejorar el control del balón y los tacos específicos te permiten jugar en distintas superficies. El talón plegable y la correa envolvente de las botas están diseñados para ponértelas fácilmente con una sola mano.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7c25bae4-e37d-4aaf-8ef4-4112c13dc771/phantom-gt2-academy-flyease-botas-de-futbol-multisuperficie-faciles-de-poner-y-quitar-kZk002.png"
+        },
+        {
+            "name": "Nike Mercurial Vapor 15 Elite",
+            "type": "Fútbol terreno firme",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "259.99",
+            "quantity": "10",
+            "description": "Adéntrate en el amanecer de un nuevo día y da a conocer al mundo tus habilidades. La llamativa placa iridiscente, el estampado futurista y los colores vibrantes que imitan el tono degradado de un amanecer muestran el poder gravitacional del deporte femenino, una potencia de pleno derecho capaz de unirnos tanto dentro como fuera del campo. Diseñadas para los jugadores obsesionados con perfeccionar su destreza, cuentan con amortiguación Zoom Air y una textura adherente en la parte superior para ofrecer un toque excepcional y darlo todo en los últimos compases del partido.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/dce3e563-5c05-41d3-a6dd-76c48f21185c/mercurial-vapor-15-elite-botas-de-futbol-terreno-firme-Hc1qQ0.png"
+        },
+        {
+            "name": "Nike Pegasus 40 Eliud",
+            "type": "Running para asfalto",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "139.99",
+            "quantity": "10",
+            "description": "Con una pisada fluida para cualquier carrera, el modelo de Pegasus perfecto para ti vuelve para ayudarte a alcanzar tus objetivos. Esta versión ofrece la misma reactividad y sujeción neutra que tanto te gusta, pero con más comodidad en las zonas sensibles del pie, como el puente y los dedos. Da igual si estás en una maratón, haciendo sesiones de velocidad antes del amanecer o corriendo cuando te apetece, estas zapatillas siguen siendo las mejores para correr. Esta versión rinde homenaje a Eliud Kipchoge, que cree que el potencial humano no tiene límites. El diseño se inspira en la mentalidad del corredor e incluye toques personales de Eliud para recordarte que siempre puedes ir más lejos.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/84cdecfe-c952-432b-9e01-b22126cfe197/pegasus-40-eliud-kipchoge-zapatillas-de-running-asfalto-3rDG6v.png"
+        },
+        {
+            "name": "Nike Phantom GX Academy",
+            "type": "Fútbol sala",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "84.99",
+            "quantity": "10",
+            "description": "¿Quieres llevar tu juego al siguiente nivel? Las zapatillas Academy ofrecen el toque preciso necesario para hacer lucir tus instintos. La tecnología NikeSkin y la zona de contacto de malla mejoran la precisión, mientras que la placa de agilidad diseñada para esprintar se adapta a tus movimientos y te permite ser ese jugador tan espontáneo.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/38e45d16-3f5a-421a-a209-94a3dc915d49/phantom-gx-academy-botas-de-futbol-sala-2BpP80.png"
+        },
+        {
+            "name": "Nike Metcon 9",
+            "type": "Training",
+            "brand": "Nike",
+            "gender": "Unisex",
+            "price": "139.99",
+            "quantity": "10",
+            "description": "Sea cual sea tu motivo para entrenar, las Metcon 9 hacen que el esfuerzo valga la pena. Hemos usado una placa Hyperlift más grande que la de las Metcon 8 y, además, hemos ampliado el refuerzo de goma para subir la cuerda. Usadas por algunos de los mejores atletas del mundo y diseñadas para quienes disfrutan levantando pesas, corriendo y luchando por alcanzar sus objetivos, estas zapatillas siguen rindiendo día tras día.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/736cd272-24a0-4c03-b33d-9b73a5a47649/metcon-9-zapatillas-de-training-VH8fcv.png"
+        }
+    ]
