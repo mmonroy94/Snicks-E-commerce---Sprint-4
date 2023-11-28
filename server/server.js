@@ -5,7 +5,7 @@ const path = require("path");
 const cors = require("cors");
 
 // Conexión de node.js con MongoDb
-const connection = new MongoClient("mongodb://localhost:27017");
+const connection = new MongoClient("mongodb://127.0.0.1:27017");
 
 async function iniciarDB() {
   try {
@@ -24,9 +24,6 @@ server.get("/", (req, res) => {
 server.get("/app", (req, res) => {
   res.sendFile(path.resolve("./build/index.html"));
 });
-server.get("/app", (req, res) => {
-  res.sendFile(path.resolve("./build/index.html"));
-});
 
 server.use(express.json()); // Para leer json
 server.use(cors()); // Permitir todas las conexiones
@@ -36,12 +33,10 @@ server.get("/products", async (req, res) => {
     let resultado = await connection
       .db("UDEA")
       .collection("products")
-      .find()
+      .find({})
       .toArray();
 
-    res.send(JSON.stringify({ resultado: resultado }));
-    console.log('resultado', resultado);
-    console.log('resultado', res);
+    res.send(JSON.stringify({ resultado : resultado }));
   } catch (error) {
     console.error("Error al obtener productos:", error);
     res.status(500).send("Error interno del servidor");
