@@ -1,4 +1,4 @@
-const { MongoClient } = require("mongodb");
+const { MongoClient, ObjectId } = require("mongodb");
 const express = require("express");
 const server = express();
 const path = require("path");
@@ -45,8 +45,6 @@ server.post('/product', async (req,res) => {
   }
 })
 
-// 
-
 // Devolver todos los productos
 server.get("/products", async (req, res) => {
   try {
@@ -79,8 +77,53 @@ server.get("/productsByGender", async (req, res) => {
   }
 });
 
-// ----- USUARIOS
+// Actualizar un producto
+server.put("/product/:id", async (req, res) => {
+  const productId = req.params.id
+  const updatedProduct = req.body
+  try {
+    
+    let resultado = await connection
+      .db("UDEA")
+      .collection("products")
+      .findOneAndUpdate(
+        { _id: productId },
+        { $set: updatedProduct },
+        { returnDocument: 'after'}
+        )
+      .toArray();
 
+    if (!resultado.value) {
+      return res.status(404).send(`No se encontro un producto con id ${productId}`);
+    }
+
+    res.send(JSON.stringify({ resultado : resultado.value }));
+  } catch (error) {
+    console.error(`Error al actualizar el producto con id ${productId} : `, error);
+    res.status(500).send("Error interno del servidor");
+  }
+});
+
+// Eliminar un producto
+
+server.put("/product/:id", async (req, res) => {
+  const productId = req.params.id
+
+  try {
+    
+    let resultado = await connection
+      .db("UDEA")
+      .collection("products")
+      .deleteOne({ _id: ObjectId(productId) })
+
+    res.send('Producto eliminado exitosamente');
+  } catch (error) {
+    console.error(`Error, no se pudo eliminar el producto con id ${productId} : `, error);
+    res.status(500).send("Error interno del servidor");
+  }
+});
+
+// ----- USUARIOS
 //Registro de usuarios
 server.post('/logUp', async (req,res) => {
   try {
