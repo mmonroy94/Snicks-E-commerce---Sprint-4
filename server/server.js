@@ -3,6 +3,8 @@ const express = require("express");
 const server = express();
 const path = require("path");
 const cors = require("cors");
+const jwt = require("jsonwebtoken");
+const bcrypt = require("bcrypt");
 
 // Conexión de node.js con MongoDb
 const connection = new MongoClient("mongodb://127.0.0.1:27017");
@@ -10,11 +12,47 @@ const connection = new MongoClient("mongodb://127.0.0.1:27017");
 async function iniciarDB() {
   try {
     await connection.connect();
+    const allUsers = db.collection("users");
+    server.use(async(req,res,next)=>{
+      const token = req.headers.authorization;
+
+      if (!token) {
+        return res.status(401).json({ message: "No se proporcionó el Token" });
+      }
+
+      try {
+        const decoded = jwt.verify(token, "miSecretKey");
+        req.user = decoded;
+
+        if (req.user.role !== "admin") {
+          return res.status(403).json({ message: "Acceso denegado, no cuentas con el permiso requerido" });
+        }
+
+        next()
+      } catch (error) {
+        res.status(401).json({ message: "Token inválido" });
+      }
+    })
   } catch (event) {
     console.log(event);
   }
 }
-iniciarDB();
+
+// ---- INICIO DE SESION
+
+server.post("/login", async (req, res) => {
+  const { email, password } = req.body;
+
+  const user = await allUsers.findOne({ email });
+  if (!user || !bcrypt.compareSync(password, user.password)) {
+    return res.status(401).json({ message: "Credenciales inválidas" });
+  }
+
+  const token = jwt.sign({ username: user.username, role: user.role }, "userToken");
+  res.json({ token });
+  });
+
+
 
 server.use(express.static(path.resolve("./build")));
 server.get("/", (req, res) => {
@@ -27,6 +65,13 @@ server.get("/app", (req, res) => {
 
 server.use(express.json()); // Para leer json
 server.use(cors()); // Permitir todas las conexiones
+
+// Ruta protegida que solo puede ser accedida por administradores
+  server.get("/admin", (req, res) => {
+    res.json({ message: "No cuentas con los permisos necesarios para acceder a esta ruta" });
+  });
+
+iniciarDB();
 
 // ---- PRODUCTOS
 
