@@ -1,0 +1,11 @@
+.is-invalid {
+    border: 1px solid red !important;
+  }
+
+.logupTitle{
+    margin-top: 18%;
+}
+
+.logupLastElement{
+    margin-bottom: 8%;
+}

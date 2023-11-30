@@ -1,0 +1,24 @@
+.login{
+    display: flex;
+    justify-content: center;
+    padding-top: 8%;
+    padding-bottom: 2%;
+    padding-left: 30%;
+    background-image: url('../logImg.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 18%;
+
+}
+
+.loginContainer{
+    display: flex;
+    background-color: white;
+    padding: 2rem 3rem;
+    overflow: hidden;
+    border: 1px solid lightgray;
+}
+
+input.form-control {
+    height: 100%; /* O un ancho fijo en píxeles */
+  }

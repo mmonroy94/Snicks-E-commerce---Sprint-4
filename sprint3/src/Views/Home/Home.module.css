@@ -1,0 +1,18 @@
+.homeCards{
+    display: flex;
+    justify-content: center;
+}
+
+.homeCard {
+    width: 18rem;
+}
+
+.womenHomeCard{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+    padding: 10px;
+}
