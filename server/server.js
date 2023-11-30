@@ -45,6 +45,8 @@ server.post('/product', async (req,res) => {
   }
 })
 
+// 
+
 // Devolver todos los productos
 server.get("/products", async (req, res) => {
   try {
@@ -61,7 +63,21 @@ server.get("/products", async (req, res) => {
   }
 });
 
+// Devolver uno o varios productos en especifico - Ejemplo del genero Hombre
+server.get("/products", async (req, res) => {
+  try {
+    let resultado = await connection
+      .db("UDEA")
+      .collection("products")
+      .find({ gender: "Hombre" })
+      .toArray();
 
+    res.send(JSON.stringify({ resultado : resultado }));
+  } catch (error) {
+    console.error("Error al obtener los productos:", error);
+    res.status(500).send("Error interno del servidor");
+  }
+});
 
 // ----- USUARIOS
 
