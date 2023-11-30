@@ -28,8 +28,24 @@ server.get("/app", (req, res) => {
 server.use(express.json()); // Para leer json
 server.use(cors()); // Permitir todas las conexiones
 
-// PRODUCTOS
+// ---- PRODUCTOS
 
+// Crear un nuevo producto
+server.post('/product', async (req,res) => {
+  try {
+    let resultado = await connection
+    .db('UDEA')
+    .collection('products')
+    .insertOne(req.body)
+
+    res.send('El producto ha sido creado exitosamente')
+  } catch (error) {
+    console.error("Error, el producto no pudo ser creado - ", error);
+    res.status(500).send("Error interno del servidor");
+  }
+})
+
+// Devolver todos los productos
 server.get("/products", async (req, res) => {
   try {
     let resultado = await connection
@@ -45,9 +61,12 @@ server.get("/products", async (req, res) => {
   }
 });
 
-// USUARIOS
 
-server.post('/user', async (req,res) => {
+
+// ----- USUARIOS
+
+//Registro de usuarios
+server.post('/logUp', async (req,res) => {
   try {
     let resultado = await connection
     .db('UDEA')
