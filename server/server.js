@@ -64,7 +64,7 @@ server.get("/products", async (req, res) => {
 });
 
 // Devolver uno o varios productos en especifico - Ejemplo del genero Hombre
-server.get("/products", async (req, res) => {
+server.get("/productsByGender", async (req, res) => {
   try {
     let resultado = await connection
       .db("UDEA")
