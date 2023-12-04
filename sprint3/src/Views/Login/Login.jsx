@@ -17,6 +17,8 @@ const Login = () => {
     password: ''
   })
 
+  console.log('DATO EMAIL', data.email, 'DATO PASSWORD', data.password);
+
   const [errors, setErrors] = useState({
     email: '',
     password: ''
@@ -54,16 +56,18 @@ const Login = () => {
 
   const handleSubmit = (ev) => {
     ev.preventDefault();
-
-    axios.post('https://jsonplaceholder.typicode.com/posts', data)
+    const { email, password } = data
+    try {
+      axios.post('http://localhost:3001/login', { email, password })
       .then((response) => {
-        console.log('Inicio de sesión exitoso:', response.data);
+        const { token } = response.data;
+        console.log('Token recibido:', token);
         dispatch(signIn(true))
         navigate("/")
       })
-      .catch((error) => {
-        console.error('Error:', error);
-      });
+    } catch (error) {
+      console.error('Error:', error);
+    }
   };
 
   return (

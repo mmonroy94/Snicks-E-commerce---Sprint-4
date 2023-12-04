@@ -48,7 +48,7 @@ server.post("/login", async (req, res) => {
     return res.status(401).json({ message: "Credenciales inválidas" });
   }
 
-  const token = jwt.sign({ username: user.username, role: user.role }, "userToken");
+  const token = jwt.sign({ email: user.email, password: user.password }, "userToken");
   res.json({ token });
   });
 
