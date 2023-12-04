@@ -12,7 +12,7 @@ const connection = new MongoClient("mongodb://127.0.0.1:27017");
 async function iniciarDB() {
   try {
     await connection.connect();
-    const allUsers = db.collection("users");
+    const allUsers = connection.db('UDEA').collection("users");
     server.use(async(req,res,next)=>{
       const token = req.headers.authorization;
 
